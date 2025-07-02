@@ -64,3 +64,9 @@ Among all destinations:
 ---
 ## 🙏 Thank you for reviewing this project. 
 
+## 📬 Connect With Me
+
+*Ajay | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
+
+
